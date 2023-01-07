@@ -208,7 +208,7 @@
     background-image: url('../images/gradient3.png'),linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
     background-blend-mode: overlay;
     background-repeat: no-repeat;
-    linear-gradient:
+    /* linear-gradient: */
     height: 300px;
     margin-bottom: 100px;
 }
