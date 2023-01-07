@@ -131,6 +131,42 @@
     /* line-height: 26px; */
 }
 
+.article{
+    margin-left: 230px;
+    margin-right: 230px;
+    display: flex;
+    margin-top: 200px;
+    /* background-color: antiquewhite; */
+    gap: 100px;
+}
+
+.article-img{
+    text-align: center;
+}
+.article-title{
+    font-size: 46px;
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 20px;
+    /* line-height: 46px; */
+}
+
+.article-sub-title{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.article-description{
+    font-size: 18px;
+    text-align: justify;
+}
+
+.article-left-section{
+    /* margin-left: 230px; */
+    /* margin-right: 230px; */
+}
+
 /* service section start */
 
 .section-two {
@@ -145,11 +181,12 @@
 
 .plan {
     display: flex;
-    gap: 86px;
+    gap: 100px;
     text-align: center;
     margin-top: 80px;
     margin-bottom: 100px;
     align-items: center;
+    margin-right: 320px;
     /* margin-left: 430px; */
     /* margin: auto; */
 }
@@ -157,8 +194,9 @@
 .course-plan {
     font-weight: 900;
     font-size: 40px;
-    text-align: center;
+    /* text-align: center; */
     margin-top: 200px;
+    margin-left: 540px;
 }
 
 .course-img {
